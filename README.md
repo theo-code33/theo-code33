@@ -6,4 +6,4 @@
 
 ![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=theo-code33&show_icons=true&theme=github_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theo-code33&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=theo-code33)](https://github.com/mdkausar295/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=theo_code33)](https://github.com/mdkausar295/github-readme-stats)
