@@ -2,6 +2,7 @@
 - I love Front End development👨‍💻
 - On my GitHub profile, I have school projects and personal projects in different technologies
 
-# Mes stats⚡️
+# My stats⚡️
 
 ![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=theo-code33&show_icons=true&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theo-code33&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
