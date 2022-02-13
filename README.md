@@ -15,20 +15,20 @@
 ### Languages
 
 <p align='center'>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:10px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="Sass" height="40" margin='100' style="vertical-align:top; margin:10px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" margin='100' style="vertical-align:top; margin:10px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" margin='100' style="vertical-align:top; margin:10px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; padding:10px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="Sass" height="40" style="vertical-align:top; padding:10px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; padding:10px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; padding:10px">
 </p>
 <br>
 
 ## Softwares
 
 <p align='center'>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:10px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:10px">
-<img src="https://i.pinimg.com/originals/18/f1/72/18f1727873924ba58fde1f739d11b77b.png" alt="Figma" height="40" style="vertical-align:top; margin:10px">
-<img src="https://download.logo.wine/logo/Adobe_XD/Adobe_XD-Logo.wine.png" alt="XD" height="40" style="vertical-align:top; margin:10px">
-<img src="https://logosmarcas.net/wp-content/uploads/2020/11/Adobe-Photoshop-Logo.png" alt="Photoshop" height="40" style="vertical-align:top; margin:10px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; padding:10px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; padding:10px">
+<img src="https://i.pinimg.com/originals/18/f1/72/18f1727873924ba58fde1f739d11b77b.png" alt="Figma" height="40" style="vertical-align:top; padding:10px">
+<img src="https://download.logo.wine/logo/Adobe_XD/Adobe_XD-Logo.wine.png" alt="XD" height="40" style="vertical-align:top; padding:10px">
+<img src="https://logosmarcas.net/wp-content/uploads/2020/11/Adobe-Photoshop-Logo.png" alt="Photoshop" height="40" style="vertical-align:top; padding:10px">
 </p>
 <br>
