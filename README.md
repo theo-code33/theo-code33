@@ -22,7 +22,7 @@
 </p>
 <br>
 
-## Softwares
+### Softwares
 
 <p align='center'>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; padding:10px">
@@ -31,4 +31,11 @@
 <img src="https://download.logo.wine/logo/Adobe_XD/Adobe_XD-Logo.wine.png" alt="XD" height="40" style="vertical-align:top; padding:10px">
 <img src="https://logosmarcas.net/wp-content/uploads/2020/11/Adobe-Photoshop-Logo.png" alt="Photoshop" height="40" style="vertical-align:top; padding:10px">
 </p>
-<br>
+
+## Follow me 👉
+
+<div>
+  <a href="https://www.linkedin.com/in/theo-gillet/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn" height="60" style="vertical-align:top; margin:20px"></a>
+  <a href="https://www.instagram.com/cyriacduchatenet_pro/?hl=fr" target="_blank"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" alt="Instagram" height="60" style="vertical-align:top; margin:20px"></a>
+  <a href="https://dribbble.com/CyriacDuChatenet" target="_blank"><img src="https://cdn.freebiesupply.com/logos/large/2x/dribbble-icon-1-logo-png-transparent.png" alt="Dribbble" height="60" style="vertical-align:top; margin:20px"></a>
+</div>
