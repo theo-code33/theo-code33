@@ -1,5 +1,5 @@
 - Hi, i'm Théo Gillet, i'm a french web developer 👋
-- I love Front End development👨‍💻
+- I love Front-End Development and i'm interested by Back-end Development also👨‍💻
 - On my GitHub profile, I have school projects and personal projects in different technologies
 
 ## My stats⚡️
