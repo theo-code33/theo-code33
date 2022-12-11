@@ -56,9 +56,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Follow me 👉
-
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white)]()
 <div>
-  <a href="https://www.linkedin.com/in/theo-gillet/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn" height="60" style="vertical-align:top; margin:20px"></a>
+  <a href="https://www.linkedin.com/in/theo-gillet/" target="_blank">
+  </a>
 </div>
