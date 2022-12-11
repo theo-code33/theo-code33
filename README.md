@@ -57,6 +57,8 @@
 
 ## Follow me 👉
 
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
 <div>
   <a href="https://www.linkedin.com/in/theo-gillet/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn" height="60" style="vertical-align:top; margin:20px"></a>
 </div>
