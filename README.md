@@ -4,8 +4,10 @@
 
 ## My stats⚡️
 
-![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=theo-code33&show_icons=true&theme=github_dark&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theo-code33&layout=compact&langs_count=12&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=theo-code33&show_icons=true&theme=github_dark&count_private=true&line_height=28.5)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theo-code33&layout=compact&langs_count=12&theme=github_dark&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=theo_code33&layout=compact&langs_count=12&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
