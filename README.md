@@ -1,5 +1,5 @@
 - Hi, i'm Théo Gillet, i'm a french web developer 👋
-- I'm fullstack JavaScript developer and i'm interested by DevOps also👨‍💻
+- I'm Full Stack TypeScript developer and i'm interested by DevOps also👨‍💻
 - On my GitHub profile, I have school projects and personal projects in different technologies
 - My main project is [Airtable Connect](https://github.com/theo-code33/airtable-connect), a simple package that connects and gives you several methods for the Airtable API
 
